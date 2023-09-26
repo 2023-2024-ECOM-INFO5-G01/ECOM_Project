@@ -2,6 +2,12 @@
 
 ## Java / Openjdk (17.0.6)
 
+Installer OpenJDK
+```
+sudo apt-get install openjdk-17-jdk
+sudo apt-get install openjdk-17-jre
+```
+
 Vérification avec 
 ```
 java -version

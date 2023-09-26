@@ -11,7 +11,7 @@ This repository contains our documents linked to the project
 ### [Guerin Louise](https://github.com/guerinlo)
 
 ## Supervisor :
-### [Lefebvre Alexandre](https://github.com/alefebvr)
+### [Lefebvre Alexandre](https://github.com/alefebvr)
 ### [Donsez Didier](https://github.com/donsez)
-### [Caffiau Sybille](https://github.com/SybilleCaffiau)
+### [Caffiau Sybille](https://github.com/SybilleCaffiau)
 

@@ -2,7 +2,7 @@
 
 # Framework Frontend
 
-Nous avons choisi d'utiliser React car une bonne partie d'entre nous avons déjà un peu d'expérience avec ce framework. Dans un optique d'efficacité, il est intéressant de se reposer.
+Nous avons choisi d'utiliser React car une bonne partie d'entre nous avons déjà un peu d'expérience avec ce framework. Dans un optique d'efficacité, il est intéressant de se reposer sur les compétences déjà présentes. De plus, React repose sur la gestion de composants distincts, cela permet de développer plusieurs d'entre eux de manière indépendante et de paralléliser le développement.
 
 # Backend 
 
@@ -28,6 +28,6 @@ Basé sur l'UML, nous aurons plus de facilités à inclure les données en utili
 Nous connaissons déjà cette technologie nous pouvons l'inclure simplement dans notre projet.
 C'est une technologie standard très répendue. Il sera donc facile de trouver quelqu'un ayant les compétences nécessaire en cas de reprise du projet.
 
-# React
+# Outil d'organisation 
 
-La techno est conçue autour de composants, ce qui permet de développer plusieurs composants indépendants par différentes personnes en même temps.
+Trello -> permet de planifier et d'acquitter les tâches ainsi que leur avancement.

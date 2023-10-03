@@ -27,3 +27,7 @@ SQL
 Basé sur l'UML, nous aurons plus de facilités à inclure les données en utilisant une représentation en classe.
 Nous connaissons déjà cette technologie nous pouvons l'inclure simplement dans notre projet.
 C'est une technologie standard très répendue. Il sera donc facile de trouver quelqu'un ayant les compétences nécessaire en cas de reprise du projet.
+
+# React
+
+La techno est conçue autour de composants, ce qui permet de développer plusieurs composants indépendants par différentes personnes en même temps.

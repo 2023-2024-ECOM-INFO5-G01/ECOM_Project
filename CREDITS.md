@@ -1,6 +1,6 @@
 ## Bracquier Benjamin : 92€  
 ## Chaouache Akram : 92€  
-## Coste Aurélien : 74€  
+## Coste Aurélien : 67€  
 ## Dupont Elise : 92€  
 ## Gricourt Killian : 92€  
 ## Guerin Louise : 92€  
